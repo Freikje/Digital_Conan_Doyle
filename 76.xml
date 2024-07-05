@@ -49,31 +49,25 @@
    <text>
       <body><div><pb facs="#facs_76" n="76" xml:id="img_0076"/>
             <p facs="#facs_76_tr_1">
-               <l facs="#facs_76_tr_1_tl_1" n="N001">35</l>
-               <l facs="#facs_76_l_1365" n="N002"><add place="above\u0020line">by</add></l>
-               <l facs="#facs_76_tr_1_tl_2" n="N003">taken <del>at</del> my orders this morning".</l>
-               <l facs="#facs_76_tr_1_tl_3" n="N004">As he held the waxen print close to the bloodstain it</l>
+               <p><l facs="#facs_76_tr_1_tl_2" n="N003">taken <del>at</del> <add>by</add> my orders this morning".</l></p>
+               <p><l facs="#facs_76_tr_1_tl_3" n="N004">As he held the waxen print close to the bloodstain it</l>
                <l facs="#facs_76_tr_1_tl_4" n="N005">did not take a magnifying glass to see that the two were</l>
                <l facs="#facs_76_tr_1_tl_5" n="N006">undoubledly from the same thumb. It was evident to me</l>
-               <l facs="#facs_76_tr_1_tl_6" n="N007">that our unfortunate <rs type="person">Client</rs> was lost.</l>
-               <l facs="#facs_76_tr_1_tl_7" n="N008">"That is final" said <rs type="person" key="Lestrade, ">Lestrade</rs></l>
-               <l facs="#facs_76_tr_1_tl_8" n="N009">Yes, that is final" I involuntanly echoed.</l>
-               <l facs="#facs_76_tr_1_tl_9" n="N010">"It's final" said <rs type="person" key="Holmes, Sherlock">Holmes</rs>.</l>
-               <l facs="#facs_76_tr_1_tl_10" n="N011">Something in his tone caught my car and I turned</l>
+               <l facs="#facs_76_tr_1_tl_6" n="N007">that our unfortunate <rs type="person">Client</rs> was lost.</l></p>
+               <p><l facs="#facs_76_tr_1_tl_7" n="N008">"That is final" said <rs type="person" key="Lestrade, ">Lestrade</rs></l></p>
+               <p><l facs="#facs_76_tr_1_tl_8" n="N009">Yes, that is final" I involuntanly echoed.</l></p>
+               <p><l facs="#facs_76_tr_1_tl_9" n="N010">"It's final" said <rs type="person" key="Holmes, Sherlock">Holmes</rs>.</l></p>
+               <p><l facs="#facs_76_tr_1_tl_10" n="N011">Something in his tone caught my car and I turned</l>
                <l facs="#facs_76_tr_1_tl_11" n="N012">to look at him. An extraordinary change had come over his</l>
-               <l facs="#facs_76_tr_1_tl_12" n="N013"><add place="above\u0020line"><unclear>writting</unclear></add></l>
-               <l facs="#facs_76_tr_1_tl_13" n="N014">face. It was <del>cnulsed</del> with inward merriment. His two</l>
+               <l facs="#facs_76_tr_1_tl_13" n="N014">face. It was <del>cnulsed</del> <add>writting</add> with inward merriment. His two</l>
                <l facs="#facs_76_tr_1_tl_14" n="N015">eyes were shining like stars. It seemed to me that he was</l>
                <l facs="#facs_76_tr_1_tl_15" n="N016">making desperate efforts to restrain a convulaive attack of</l>
-               <l facs="#facs_76_tr_1_tl_16" n="N017">laughter.</l>
-               <l facs="#facs_76_tr_1_tl_17" n="N018">"Dear me! Dear me!" he said ablast "Well,</l>
+               <l facs="#facs_76_tr_1_tl_16" n="N017">laughter.</l></p>
+               <p><l facs="#facs_76_tr_1_tl_17" n="N018">"Dear me! Dear me!" he said ablast "Well,</l>
                <l facs="#facs_76_tr_1_tl_18" n="N019">now who would have thought it and how deceptive appearances</l>
-               <l facs="#facs_76_l_1381" n="N020">may be.</l>
-               <l facs="#facs_76_tr_1_tl_19" n="N021"><add place="above\u0020line">such a nice young man to look at!</add></l>
-               <l facs="#facs_76_l" n="N022">to be sure.</l>
-               <l facs="#facs_76_tr_1_tl_21" n="N023"><add place="below\u0020line">Judgment is it not <unclear>D</unclear><rs type="person" key="Lestrade, ">, Lestrade</rs>"</add></l>
-               <l facs="#facs_76_l_1351" n="N024">It is a lesson to us not to trust our own</l>
-               <l facs="#facs_76_tr_1_tl_22" n="N025">"Yes, some of us are a little too much inclied to</l></p></div>
+               <l facs="#facs_76_l_1381" n="N020">may be to be sure. <add>Such a nice young man to look at!</add> It is a lesson to us not to trust our own </l>
+               <l facs="#facs_76_tr_1_tl_21" n="N023">judgment is it not <unclear>D</unclear><rs type="person" key="Lestrade, ">, Lestrade</rs>"</l></p>
+               <p><l facs="#facs_76_tr_1_tl_22" n="N025">"Yes, some of us are a little too much inclied to</l></p></p></div>
       </body>
    </text>
 </TEI>
